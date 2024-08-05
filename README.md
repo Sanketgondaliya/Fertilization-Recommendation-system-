@@ -88,8 +88,7 @@ To overcome these limitations, we use machine learning techniques to predict fer
 
 ## Acknowledgements
 
-- [Data Source](#)
-- [Your Team](#) - Sanket Gondaliya, Smit Gondaliya
+- [Data Source](https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction/data)
 
 ---
 
